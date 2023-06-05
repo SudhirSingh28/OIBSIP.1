@@ -1,0 +1,10 @@
+div
+{
+	border: 3px solid red;
+	cursor: wait;
+}
+div.one
+{
+	border: 6px solid green;
+	cursor: help;
+}
